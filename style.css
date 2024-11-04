@@ -1,0 +1,160 @@
+html {
+	box-sizing: border-box;
+}
+::before ::after {
+	box-sizing: inherit;
+}
+body {
+	margin: 0;
+	font-family: 'Allerta';
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style-type: none;
+	text-decoration: none;
+}
+header {
+	display: flex;
+	justify-content: center;
+
+	margin-top: 30px;
+}
+.img {
+	width: 129.25px;
+	height: 220px;
+
+	margin-left: 0px;
+}
+.text {
+	margin-left: 55px;
+}
+
+.button {
+	border-radius: 10px 0px 10px 0px;
+	opacity: 0px;
+	background-color: #ffc700;
+	padding: 14px 7px;
+
+	padding-bottom: 20px;
+	display: block;
+}
+.h1 {
+	color: #1d2f45;
+
+	margin-left: 0px;
+	font-size: 44px;
+	font-weight: 400;
+	line-height: 50px;
+
+	margin-top: 39px;
+}
+.work {
+	margin-top: 19px;
+}
+.img1 {
+	width: 15px;
+	height: 15px;
+	gap: 20px;
+	opacity: 0px;
+
+	display: flex;
+	border-radius: 10px 10px;
+}
+.figma {
+	width: 8px;
+	height: 12px;
+	padding: 7px 10px 8px 9px;
+	background-color: #1d2f45;
+	border-radius: 10px 10px;
+}
+.photoshop {
+	width: 15px;
+	height: 15px;
+	padding: 6px;
+	background-color: #001e36;
+	border-radius: 10px 10px;
+}
+.illustrator {
+	width: 15px;
+	height: 15px;
+	padding: 6px;
+	background-color: #330000;
+	border-radius: 10px 10px;
+}
+.img2 {
+	width: 15px;
+	height: 15px;
+	padding: 6px;
+	border-radius: 10px 10px;
+	background-color: #1d2f45;
+}
+.img3 {
+	width: 15px;
+	height: 15px;
+	padding: 6px;
+	border-radius: 10px 10px;
+	background-color: #ffffff;
+}
+.main {
+	margin-top: 35px;
+
+	width: 181px;
+	height: 20px;
+	top: 310px;
+	left: 30px;
+}
+.text1 {
+	display: flex;
+	justify-content: center;
+	gap: 55px;
+}
+.Work {
+	width: 240px;
+	height: 20px;
+	top: 310px;
+	left: 285px;
+
+	margin-top: 35px;
+}
+.Skills {
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12.78px;
+	text-align: left;
+}
+h2 {
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.34px;
+}
+.section p {
+	font-size: 8px;
+	font-weight: 400;
+	line-height: 10.23px;
+}
+.section img {
+	width: 30px;
+	height: 30px;
+	gap: 10px;
+	border-radius: 0px 0px 0px;
+	opacity: 0px;
+}
+.section {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+.experience-item {
+	display: flex;
+	flex-wrap: wrap;
+}
+.experience-item1 {
+	display: flex;
+	flex-wrap: wrap;
+}
+.experience-item2 {
+	display: flex;
+	flex-wrap: wrap;
+}
