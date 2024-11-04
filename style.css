@@ -107,7 +107,8 @@ header {
 }
 .text1 {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
+	gap: 55px;
 }
 .Work {
 	width: 240px;
